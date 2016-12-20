@@ -6,7 +6,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: wp generator, remove, remove version wordpress, feeds, filemtime, files, css, js, meta tags
 Requires at least: 3.0
 Tested up to: 4.6.1
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,10 @@ Remove the version of WordPress in HTML tag generator, css and js params (?ver=)
 1. Not it contains an image of the plugin configuration screen.
 
 == Changelog ==
+
+= 2.1 =
+
+* Bug fixes
 
 = 2.0 =
 

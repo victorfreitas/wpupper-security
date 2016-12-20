@@ -112,7 +112,6 @@ class WPUpper_Security_Controller {
 			'index_rel_link'                  => 10,
 			'wp_generator'                    => 10,
 			'rsd_link'                        => 10,
-			'wp_print_head_scripts'           => 9,
 			'print_emoji_detection_script'    => 7,
 			'feed_links_extra'                => 3,
 			'feed_links'                      => 2,

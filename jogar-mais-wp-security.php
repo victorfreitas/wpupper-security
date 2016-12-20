@@ -2,7 +2,7 @@
 /*
  * Plugin Name: WPUpper Security
  * Plugin URI:  https://github.com/victorfreitas
- * Version:     2.0
+ * Version:     2.1
  * Author:      Victor Freitas
  * Author URI:  https://github.com/victorfreitas
  * License:     GPL2
